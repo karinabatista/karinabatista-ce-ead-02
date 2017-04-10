@@ -23,4 +23,6 @@
 		<p>__________________________________________________</p>
 		<p>$nomeCo - Coordenador</p>";
 	//FIM DECLARAÇÃO
+	
+	echo "Perímetro: $perimetro <br><br> Área: $area <br><br>";
 ?>

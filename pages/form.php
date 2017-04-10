@@ -14,6 +14,7 @@
 		Nota dos trabalhos (0-25): <input type='number' name='nTrab'><br /><br />
 		Nome do(a) professor(a): <input type='text' name='nomeP'><br /><br />
 		Nome do(a) corrdernador(a): <input type='text' name='nomeCo'><br /><br />
+		Lado: <input type='number' name='lado'><br /><br />
 		<input type='submit' name='gerar' value='Gerar declaração'><br /><br />
 	</form>
 </div>	

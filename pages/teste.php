@@ -5,6 +5,7 @@
 	$nVA3 = $_POST['nVA3'];
 	$nTrab = $_POST['nTrab'];
 	$link = $_POST['link'];
+	$lado = $_POST['lado'];
 	
 	//MEDIA DAS NOTAS
 	$dVA1 = round($nVA1/15*100);
@@ -32,4 +33,10 @@
 	if ($soma < 60) {
 		$conceito = 'Péssimo';
 	}
+	
+	//PERIMETRO
+	$perimetro = 4*$lado;
+	
+	//AREA
+	$area = $lado*$lado;
 ?>

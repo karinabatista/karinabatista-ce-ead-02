@@ -66,6 +66,7 @@ include ('teste.php');
 			</td>
 		</tr>   
 		</table>
-	</div>"
+	</div>";
 	//FIM TABLELA
+	
 	?>
